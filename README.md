@@ -2,7 +2,7 @@
 # Hi there, I'm Morgan Nash 👋
 
 <p align="left">
-  <img src="https://komarev.com[your-github-username]&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com[morgannash1]&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 ### 🛠️ About Me

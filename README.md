@@ -15,41 +15,25 @@ I am actively **looking for entry-level opportunities, internships, and collabor
 ### 🧰 Tech Stack & Tools
 
 #### 🐍 Languages & Core Tech
-Python
-SQL
+- Python
+- SQL
 
 #### 🤖 Machine Learning & Modeling
-Scikit-Learn
-Pandas
-NumPy
+- Scikit-Learn
+- Pandas
+- NumPy
 
 - **Regression:** Linear Regression, Multiple Linear Regression, Logistic Regression
 - **Classification & Advanced ML:** Supervised Learning algorithms, Model Evaluation
 - **Natural Language Processing (NLP):** Text processing, sentiment analysis, and tokenization
 
 #### 📈 Visualization & Tools
-Tableau
-Git
-Jupyter
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://vercel.app[morgannash1]&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://vercel.app[morgannash1]&layout=compact&theme=visual_studio_dark"/>
-</p>
-
----
+- Tableau
+- Git
+- Jupyter
 
 ### 📬 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/morganmnash/" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:morganmichellenash@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-</p>
+- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com/)
+- 📧 **Gmail:** [morganmichellenash@gmail.com](mailto:morganmichellenash@gmail.com)
+

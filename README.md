@@ -34,6 +34,6 @@ I am actively **looking for entry-level opportunities, internships, and collabor
 
 ### 📬 Connect with Me
 
-- 💼 **LinkedIn:** [morganmnash](https://linkedin.com/morganmnash)
+- 💼 **LinkedIn:** [morganmnash](https://www.linkedin.com/in/morgan-nash-a45a44132)
 - 📧 **Gmail:** [morganmichellenash@gmail.com](mailto:morganmichellenash@gmail.com)
 

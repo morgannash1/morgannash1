@@ -1,10 +1,6 @@
 
 # Hi there, I'm Morgan Nash 👋
 
-<p align="left">
-  <img src="https://komarev.com[morgannash1]&color=blue&style=flat-square" alt="Profile Views" />
-</p>
-
 ### 🛠️ About Me
 I am a newly graduated **Data Scientist** transitioning from **over a decade as a Chef/Hospitality Professional**. This background makes me exceptionally skilled at finding the story behind the numbers, communicating with stakeholders, and translating complex data into clear, human-centric solutions. 
 
@@ -19,22 +15,22 @@ I am actively **looking for entry-level opportunities, internships, and collabor
 ### 🧰 Tech Stack & Tools
 
 #### 🐍 Languages & Core Tech
-![Python](https://shields.io)
-![SQL](https://shields.io)
+Python
+SQL
 
 #### 🤖 Machine Learning & Modeling
-![Scikit-Learn](https://shields.io)
-![Pandas](https://shields.io)
-![NumPy](https://shields.io)
+Scikit-Learn
+Pandas
+NumPy
 
 - **Regression:** Linear Regression, Multiple Linear Regression, Logistic Regression
 - **Classification & Advanced ML:** Supervised Learning algorithms, Model Evaluation
 - **Natural Language Processing (NLP):** Text processing, sentiment analysis, and tokenization
 
 #### 📈 Visualization & Tools
-![Tableau](https://shields.io)
-![Git](https://shields.io)
-![Jupyter](https://shields.io)
+Tableau
+Git
+Jupyter
 
 ---
 
